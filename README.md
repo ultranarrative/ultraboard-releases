@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="assets/header.jpg" alt="Ultraboard: Boards for your references." width="100%">
+</p>
+
 # Ultraboard
 
-**Boards for your references.** Collect images on boards, in a tidy grid or freeform. Sections, layers and comments for moodboards, references and visual research.
+**Boards for your references.**
+
+*Dan Rodriguez · [UltraNarrative](https://www.ultranarrative.com) · [ultranarrative.com/tools](https://www.ultranarrative.com/tools) · [dan@ultranarrative.com](mailto:dan@ultranarrative.com) · October 2026*
+
+---
+
+Collect images on boards, in a tidy grid or freeform. Sections, layers and comments for moodboards, references and visual research.
 
 Free, for a Mac with Apple silicon, macOS 11 or later. This repository holds the installer only. More free apps at [ultranarrative.com/tools](https://www.ultranarrative.com/tools).
 
